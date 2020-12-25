@@ -1,0 +1,2 @@
+/usr/bin/ar qc liballlibs.a  CMakeFiles/alllibs.dir/src/disk.c.o CMakeFiles/alllibs.dir/src/file.c.o CMakeFiles/alllibs.dir/src/dir.c.o CMakeFiles/alllibs.dir/src/inode.c.o CMakeFiles/alllibs.dir/src/shell.c.o CMakeFiles/alllibs.dir/src/superblock.c.o
+/usr/bin/ranlib liballlibs.a

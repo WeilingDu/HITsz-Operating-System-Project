@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibs.a  CMakeFiles/libs.dir/src/disk.c.o CMakeFiles/libs.dir/src/file.c.o CMakeFiles/libs.dir/src/dir.c.o CMakeFiles/libs.dir/src/inode.c.o CMakeFiles/libs.dir/src/shell.c.o CMakeFiles/libs.dir/src/superblock.c.o
+/usr/bin/ranlib liblibs.a

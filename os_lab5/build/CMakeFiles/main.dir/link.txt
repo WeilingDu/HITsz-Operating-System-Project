@@ -1,0 +1,1 @@
+/usr/bin/gcc-7 -g  -rdynamic CMakeFiles/main.dir/src/main.c.o  -o main liballlibs.a 

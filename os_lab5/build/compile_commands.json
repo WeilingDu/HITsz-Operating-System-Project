@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/parallels/Desktop/os_lab5/build",
+  "command": "/usr/bin/gcc-7  -I/home/parallels/Desktop/os_lab5/include  -g   -o CMakeFiles/alllibs.dir/src/disk.c.o   -c /home/parallels/Desktop/os_lab5/src/disk.c",
+  "file": "/home/parallels/Desktop/os_lab5/src/disk.c"
+},
+{
+  "directory": "/home/parallels/Desktop/os_lab5/build",
+  "command": "/usr/bin/gcc-7  -I/home/parallels/Desktop/os_lab5/include  -g   -o CMakeFiles/alllibs.dir/src/file.c.o   -c /home/parallels/Desktop/os_lab5/src/file.c",
+  "file": "/home/parallels/Desktop/os_lab5/src/file.c"
+},
+{
+  "directory": "/home/parallels/Desktop/os_lab5/build",
+  "command": "/usr/bin/gcc-7  -I/home/parallels/Desktop/os_lab5/include  -g   -o CMakeFiles/alllibs.dir/src/dir.c.o   -c /home/parallels/Desktop/os_lab5/src/dir.c",
+  "file": "/home/parallels/Desktop/os_lab5/src/dir.c"
+},
+{
+  "directory": "/home/parallels/Desktop/os_lab5/build",
+  "command": "/usr/bin/gcc-7  -I/home/parallels/Desktop/os_lab5/include  -g   -o CMakeFiles/alllibs.dir/src/inode.c.o   -c /home/parallels/Desktop/os_lab5/src/inode.c",
+  "file": "/home/parallels/Desktop/os_lab5/src/inode.c"
+},
+{
+  "directory": "/home/parallels/Desktop/os_lab5/build",
+  "command": "/usr/bin/gcc-7  -I/home/parallels/Desktop/os_lab5/include  -g   -o CMakeFiles/alllibs.dir/src/shell.c.o   -c /home/parallels/Desktop/os_lab5/src/shell.c",
+  "file": "/home/parallels/Desktop/os_lab5/src/shell.c"
+},
+{
+  "directory": "/home/parallels/Desktop/os_lab5/build",
+  "command": "/usr/bin/gcc-7  -I/home/parallels/Desktop/os_lab5/include  -g   -o CMakeFiles/alllibs.dir/src/superblock.c.o   -c /home/parallels/Desktop/os_lab5/src/superblock.c",
+  "file": "/home/parallels/Desktop/os_lab5/src/superblock.c"
+},
+{
+  "directory": "/home/parallels/Desktop/os_lab5/build",
+  "command": "/usr/bin/gcc-7  -I/home/parallels/Desktop/os_lab5/include  -g   -o CMakeFiles/main.dir/src/main.c.o   -c /home/parallels/Desktop/os_lab5/src/main.c",
+  "file": "/home/parallels/Desktop/os_lab5/src/main.c"
+}
+]

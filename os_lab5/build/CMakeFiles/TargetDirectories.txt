@@ -1,0 +1,4 @@
+/home/parallels/Desktop/os_lab5/build/CMakeFiles/rebuild_cache.dir
+/home/parallels/Desktop/os_lab5/build/CMakeFiles/alllibs.dir
+/home/parallels/Desktop/os_lab5/build/CMakeFiles/edit_cache.dir
+/home/parallels/Desktop/os_lab5/build/CMakeFiles/main.dir
